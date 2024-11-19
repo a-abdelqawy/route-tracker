@@ -1049,9 +1049,9 @@
   integrity sha512-ng6Tm537E/M42GjE4TRUxQyL8sRfClcL7bQWblOCoxPZzJ2J3bdALsjeG3vDnVCIfI/R0AeFalN9KjMt0+Z/Zg==
 
 "@react-native-community/cli@^3.0.0-alpha.1":
-  version "3.2.0"
-  resolved "https://registry.yarnpkg.com/@react-native-community/cli/-/cli-3.2.0.tgz#f4b04b94bf96810c4a7f57379a69ebd11fd9c933"
-  integrity sha512-k8GmNQH/EbIIVd4VlVbFP99IRNhovWV6hhnJ3y2+FfZq18H/U6yV/t1bpI3A3QqPuAyWxk/1jBdXvP6BY/7kbw==
+  version "3.2.1"
+  resolved "https://registry.yarnpkg.com/@react-native-community/cli/-/cli-3.2.1.tgz#2a466801eb6080a1f73358c5d740c53c24ed8c6f"
+  integrity sha512-bZ/bfZ+9r1gQSxp6t7+00DcpC6vmbVYSvzUCFM/yo5k8bhsDdcy8aocscIaXXVGG+v9Edri/Q7hH9ks7L18/Rg==
   dependencies:
     "@hapi/joi" "^15.0.3"
     "@react-native-community/cli-debugger-ui" "^3.0.0"
@@ -2135,16 +2135,16 @@ create-react-class@^15.6.2, create-react-class@^15.6.3:
 cross-spawn@^5.0.1, cross-spawn@^5.1.0:
   version "5.1.0"
   resolved "https://registry.yarnpkg.com/cross-spawn/-/cross-spawn-5.1.0.tgz#e8bd0efee58fcff6f8f94510a0a554bbfa235449"
-  integrity sha1-6L0O/uWPz/b4+UUQoKVUu/ojVEk=
+  integrity sha512-pTgQJ5KC0d2hcY8eyL1IzlBPYjTkyH72XRZPnLyKus2mBfNjQs3klqbJU2VILqZryAZUt9JOb3h/mWMy23/f5A==
   dependencies:
     lru-cache "^4.0.1"
     shebang-command "^1.2.0"
     which "^1.2.9"
 
 cross-spawn@^6.0.0, cross-spawn@^6.0.5:
-  version "6.0.5"
-  resolved "https://registry.yarnpkg.com/cross-spawn/-/cross-spawn-6.0.5.tgz#4a5ec7c64dfae22c3a14124dbacdee846d80cbc4"
-  integrity sha512-eTVLrBSt7fjbDygz805pMnstIs2VTBNkRm0qxZd+M7A5XDdxVRWO5MxGBXZhjY4cqLYLdtrGqRf8mBPmzwSpWQ==
+  version "6.0.6"
+  resolved "https://registry.yarnpkg.com/cross-spawn/-/cross-spawn-6.0.6.tgz#30d0efa0712ddb7eb5a76e1e8721bffafa6b5d57"
+  integrity sha512-VqCUuhcd1iB+dsv8gxPttb5iZh/D0iubSP21g36KXdEuf6I5JiioesUVjpCdHV9MZRUfVFlvwtIUyPfxo5trtw==
   dependencies:
     nice-try "^1.0.4"
     path-key "^2.0.1"
